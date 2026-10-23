@@ -29,7 +29,7 @@ spec:
           app:
             image:
               repository: ghcr.io/ersatztv/legacy
-              tag: v26.11.3@sha256:cb0383fdb22050bdaff19e94974e86151d289e56355ca77cde8f15c3b49895d7
+              tag: v26.11.4@sha256:fbb168eae984efcad085d56f949bba10a8b7b63c54f48bc1cc20b494362c18a4
             env:
               TZ: America/Los_Angeles
             probes:
